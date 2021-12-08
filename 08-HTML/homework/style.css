@@ -1,0 +1,16 @@
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: gold;
+    padding: 50px;
+    border: 5px solid hotpink;
+}
+
+.divClass{
+
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
